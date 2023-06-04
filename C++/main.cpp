@@ -28,7 +28,7 @@ void quickSort(std::vector<int>& nums, int low, int high) {
 int main() {
     std::vector<int> nums = {90, 40, 10, 60, 70, 30, 80, 20, 50};
 
-    //原始數列.
+    // 原始數列.
     std::cout << "Original array: ";
     for (int num : nums) {
         std::cout << num << " ";
