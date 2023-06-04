@@ -42,8 +42,8 @@ Lomuto partition scheme則是快速排序的一種分區方案，其過程如下
 ---
 
 ## 示意圖:
-<img src="https://drive.google.com/uc?id=1JJv1ARTBczJaDoBM2UOY9SmBv7Ups8Jt" height="100%" width="100%"/>
-<img src="https://drive.google.com/uc?id=1BF_4bE_VAByMQZvCP_GqW6mYCzhOdHMj" height="100%" width="100%"/>
+<img src="https://drive.google.com/uc?id=1JJv1ARTBczJaDoBM2UOY9SmBv7Ups8Jt" height="70%" width="70%"/>
+<img src="https://drive.google.com/uc?id=1BF_4bE_VAByMQZvCP_GqW6mYCzhOdHMj" height="70%" width="70%"/>
 
 > 圖片來源：[iThome鐵人賽(Frank) - 演算法 快速排序法 Quick Sort](https://ithelp.ithome.com.tw/articles/10278644)
 
