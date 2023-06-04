@@ -38,7 +38,7 @@ int main() {
     // Lomuto partition scheme Sort. 
     quickSort(nums, 0, nums.size() - 1);
 
-    // 排序後數列..
+    // 排序後數列.
     std::cout << "Sorted array: ";
     for (int num : nums) {
         std::cout << num << " ";
